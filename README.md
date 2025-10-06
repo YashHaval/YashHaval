@@ -11,7 +11,7 @@
 ## 🚀 About Me  
 - 🎓 Pursuing **B.Tech in Computer Science (Data Science)** from *Dr. D.Y. Patil Pratishthan's College of Engineering, Kolhapur*  
 - 💡 Passionate about **Data Analytics, Machine Learning, and AI**  
-- 🧩 Skilled in **Python, SQL, and Statistics** for data-driven decision-making  
+- 💼 Skilled in **Python, SQL, and Statistics** for data-driven decision-making  
 - 🤖 Experienced in building ML models — Regression, Decision Trees, Ensemble Techniques  
 - 🌱 Currently exploring **Deep Learning and Generative AI**  
 - 🧠 Strong problem solver who loves turning data into insights  
