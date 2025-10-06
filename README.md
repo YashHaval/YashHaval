@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#00FFFF;">Yash Haval</span></h1>
 
 <p align="center">
-🎯 <b>Data Science & Machine Learning Enthusiast</b> | 💻 Python Developer | 📊 Data Analyst  
+🎯 <b>Data Science & Machine Learning Enthusiast</b> | 💻 <b>Python Developer</b> | 📊 <b>Data Analyst</b>   
 </p>
 
 ---
