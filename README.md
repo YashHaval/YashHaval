@@ -75,7 +75,7 @@
 
 ## 🏅 Certifications  
 
-- 🧩 **Python for Data Science** – NPTEL (2024)  
+- 📈 **Python for Data Science** – NPTEL (2024)  
 - 📊 **Master Data Analysis with Python** – Udemy (2025)  
 - 🧠 **Python for Data Science** – Great Learning (2023)  
 
