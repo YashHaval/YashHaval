@@ -44,7 +44,7 @@
 ![EDA](https://img.shields.io/badge/EDA-00C853?style=for-the-badge)
 ![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-9C27B0?style=for-the-badge)
 
-### 🧩 Tools & Platforms  
+### ⚙️ Tools & Platforms  
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
@@ -54,7 +54,7 @@
 
 ---
 
-## 🧪 Featured Projects  
+## ⭐ Featured Projects  
 
 ### 🔹 [AI-Powered Data Analytics Portal](#)
 *Python | Streamlit | Pandas | Scikit-learn*  
