@@ -97,10 +97,8 @@ Problem-Solving • Analytical Thinking • Teamwork • Adaptability • Time M
 
 ## 🌐 Connect with Me  
 
-## 🌐 Connect with Me  
-
 <p align="center">
-  <a href="mailto:yashhaval23@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:yashhaval23@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/yash-haval-8ab742274/" target="_blank" rel="noopener noreferrer">
@@ -113,6 +111,7 @@ Problem-Solving • Analytical Thinking • Teamwork • Adaptability • Time M
     <img src="https://img.shields.io/badge/-Resume-0052CC?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
   </a>
 </p>
+
 
 
 
