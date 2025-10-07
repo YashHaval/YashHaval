@@ -11,14 +11,14 @@
 ## 🚀 About Me  
 - 🎓 Pursuing **B.Tech in Computer Science (Data Science)** from *Dr. D.Y. Patil Pratishthan's College of Engineering, Kolhapur*  
 - 💡 Passionate about **Data Analytics, Machine Learning, and AI**  
-- 🧩 Skilled in **Python, SQL, and Statistics** for data-driven decision-making  
+- 💼 Skilled in **Python, SQL, and Statistics** for data-driven decision-making  
 - 🤖 Experienced in building ML models — Regression, Decision Trees, Ensemble Techniques  
 - 🌱 Currently exploring **Deep Learning and Generative AI**  
 - 🧠 Strong problem solver who loves turning data into insights  
 
 ---
 
-## 🧰 Tech Stack  
+## ⌨️ Tech Stack  
 
 ### 👨‍💻 Programming & Databases  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -44,7 +44,7 @@
 ![EDA](https://img.shields.io/badge/EDA-00C853?style=for-the-badge)
 ![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-9C27B0?style=for-the-badge)
 
-### 🧩 Tools & Platforms  
+### ⚙️ Tools & Platforms  
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
@@ -54,7 +54,7 @@
 
 ---
 
-## 🧪 Featured Projects  
+## ⭐ Featured Projects  
 
 ### 🔹 [AI-Powered Data Analytics Portal](#)
 *Python | Streamlit | Pandas | Scikit-learn*  
@@ -75,7 +75,7 @@
 
 ## 🏅 Certifications  
 
-- 🧩 **Python for Data Science** – NPTEL (2024)  
+- 📈 **Python for Data Science** – NPTEL (2024)  
 - 📊 **Master Data Analysis with Python** – Udemy (2025)  
 - 🧠 **Python for Data Science** – Great Learning (2023)  
 
