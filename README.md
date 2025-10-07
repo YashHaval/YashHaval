@@ -99,18 +99,19 @@ Problem-Solving • Analytical Thinking • Teamwork • Adaptability • Time M
 
 <p align="center">
   <a href="mailto:yashhaval23@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/gmail-new.png" alt="Email" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/yash-haval-8ab742274/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/YashHaval" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt="GitHub" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://your-resume-link.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/resume.png" alt="Resume" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/-Resume-0052CC?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
   </a>
 </p>
+
 
 
 
