@@ -114,7 +114,7 @@ Problem-Solving • Analytical Thinking • Teamwork • Adaptability • Time M
   </a>
 
   <!-- Resume -->
-  <a href="https://github.com/YashHaval/Yash_Haval_resume.pdf" target="_blank">
+  <a href="https://github.com/YashHaval/YashHaval/blob/main/Yash_Haval%20resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-0052CC?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
   </a>
 </p>
