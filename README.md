@@ -1,9 +1,9 @@
-<!-- 🌙 Dark Mode Aesthetic GitHub Profile - Yash Haval -->
+<!-- 🌙 GitHub Profile README - Yash Haval -->
 
 <h1 align="center">👋 Hi, I'm <span style="color:#00FFFF;">Yash Haval</span></h1>
 
 <p align="center">
-🎯 <b>Data Science & Machine Learning Enthusiast</b> | 💻 <b>Python Developer</b> | 📊 <b>Data Analyst</b>   
+🎯 <b>Data Science & Machine Learning Enthusiast</b> | 💻 <b>Python Developer</b> | 📊 <b>Data Analyst</b>  
 </p>
 
 ---
@@ -11,14 +11,14 @@
 ## 🚀 About Me  
 - 🎓 Pursuing **B.Tech in Computer Science (Data Science)** from *Dr. D.Y. Patil Pratishthan's College of Engineering, Kolhapur*  
 - 💡 Passionate about **Data Analytics, Machine Learning, and AI**  
-- 💼 Skilled in **Python, SQL, and Statistics** for data-driven decision-making  
+- 🧩 Skilled in **Python, SQL, and Statistics** for data-driven decision-making  
 - 🤖 Experienced in building ML models — Regression, Decision Trees, Ensemble Techniques  
 - 🌱 Currently exploring **Deep Learning and Generative AI**  
 - 🧠 Strong problem solver who loves turning data into insights  
 
 ---
 
-## ⌨️ Tech Stack  
+## 🧰 Tech Stack  
 
 ### 👨‍💻 Programming & Databases  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -44,7 +44,7 @@
 ![EDA](https://img.shields.io/badge/EDA-00C853?style=for-the-badge)
 ![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-9C27B0?style=for-the-badge)
 
-### ⚙️ Tools & Platforms  
+### 🧩 Tools & Platforms  
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
@@ -54,7 +54,7 @@
 
 ---
 
-## ⭐ Featured Projects  
+## 🧪 Featured Projects  
 
 ### 🔹 [AI-Powered Data Analytics Portal](#)
 *Python | Streamlit | Pandas | Scikit-learn*  
@@ -75,7 +75,7 @@
 
 ## 🏅 Certifications  
 
-- 📈 **Python for Data Science** – NPTEL (2024)  
+- 🧩 **Python for Data Science** – NPTEL (2024)  
 - 📊 **Master Data Analysis with Python** – Udemy (2025)  
 - 🧠 **Python for Data Science** – Great Learning (2023)  
 
@@ -99,24 +99,18 @@ Problem-Solving • Analytical Thinking • Teamwork • Adaptability • Time M
 
 <p align="center">
   <a href="mailto:yashhaval23@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/yash-haval-8ab742274/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/yash-haval-8ab742274/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/YashHaval" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/YashHaval">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://github.com/YashHaval/Yash_Haval_resume.pdf" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Resume-0052CC?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
+  <a href="https://github.com/YashHaval/Yash_Haval_resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-0052CC?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
   </a>
 </p>
-
-
-
-
-
-
 
 ---
 
