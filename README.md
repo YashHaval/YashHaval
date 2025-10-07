@@ -98,11 +98,20 @@ Problem-Solving • Analytical Thinking • Teamwork • Adaptability • Time M
 ## 🌐 Connect with Me  
 
 <p align="center">
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashhaval23@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-haval-8ab742274/)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YashHaval)
-  [![Resume](https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://your-resume-link.com)
+  <a href="mailto:yashhaval23@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/gmail-new.png" alt="Email" width="40" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yash-haval-8ab742274/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/YashHaval" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt="GitHub" width="40" height="40"/>
+  </a>
+  <a href="https://your-resume-link.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/resume.png" alt="Resume" width="40" height="40"/>
+  </a>
 </p>
+
 
 
 
