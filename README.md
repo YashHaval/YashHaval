@@ -97,6 +97,8 @@ Problem-Solving • Analytical Thinking • Teamwork • Adaptability • Time M
 
 ## 🌐 Connect with Me  
 
+## 🌐 Connect with Me  
+
 <p align="center">
   <a href="mailto:yashhaval23@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
@@ -107,10 +109,11 @@ Problem-Solving • Analytical Thinking • Teamwork • Adaptability • Time M
   <a href="https://github.com/YashHaval" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://your-resume-link.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/YashHaval/Yash_Haval_resume.pdf" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Resume-0052CC?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
   </a>
 </p>
+
 
 
 
