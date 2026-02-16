@@ -84,7 +84,7 @@
 ## 💬 Soft Skills  
 Problem-Solving • Analytical Thinking • Teamwork • Adaptability • Time Management  
 
----
+
 
 
 
