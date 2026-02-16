@@ -109,9 +109,10 @@ Problem-Solving • Analytical Thinking • Teamwork • Adaptability • Time M
   </a>
 
   <!-- Resume -->
-  <a href="https://drive.google.com/file/d/1_IAseahwZDvRW_tfCsPoW3p6HfK3JLZ8/preview" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Resume-View-0052CC?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
+  <a href="https://drive.google.com/file/d/1_IAseahwZDvRW_tfCsPoW3p6HfK3JLZ8/preview" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-0052CC?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
 </a>
+
 
 
 
