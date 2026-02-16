@@ -86,12 +86,7 @@ Problem-Solving • Analytical Thinking • Teamwork • Adaptability • Time M
 
 ---
 
-## 📊 GitHub Analytics  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashHaval&show_icons=true&theme=radical" alt="GitHub stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashHaval&layout=compact&theme=tokyonight" alt="Top Languages" height="170"/>
-</p>
 
 ---
 
