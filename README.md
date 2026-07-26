@@ -1,131 +1,181 @@
-<!-- 🌙 GitHub Profile README - Yash Haval -->
+<!-- GitHub Profile README -->
 
-<h1 align="center">👋 Hi, I'm <span style="color:#00FFFF;">Yash Haval</span></h1>
+<h1 align="center">Hi 👋, I'm Yash Haval</h1>
+<h3 align="center">AI/ML Engineer | Python Developer | Generative AI Enthusiast</h3>
 
 <p align="center">
-🎯 <b>Data Science & Machine Learning Enthusiast</b> | 💻 <b>Python Developer</b> | 📊 <b>Data Analyst</b>  
+Building AI-powered applications using Python, LangChain, RAG, LLMs, FastAPI & Machine Learning.
 </p>
 
 ---
 
-## 🚀 About Me  
-- 🎓 Pursuing **B.Tech in Computer Science (Data Science)** from *Dr. D.Y. Patil Pratishthan's College of Engineering, Kolhapur*  
-- 💡 Passionate about **Data Analytics, Machine Learning, and AI**  
-- 💼 Skilled in **Python, SQL, and Statistics** for data-driven decision-making  
-- 🤖 Experienced in building ML models — Regression, Decision Trees, Ensemble Techniques  
-- 🌱 Currently exploring **Deep Learning and Generative AI**  
-- 🧠 Strong problem solver who loves turning data into insights  
+## 🚀 About Me
+
+🎓 B.Tech in Data Science (2022–2026)
+
+💻 AI/ML Engineer passionate about solving real-world problems using AI
+
+🤖 Building Generative AI applications with LangChain, RAG and LLMs
+
+📊 Skilled in Machine Learning, Deep Learning and Data Analytics
+
+🌱 Currently learning
+- Multi-Agent AI
+- LangGraph
+- AI Agents
+- MCP
+- Advanced RAG
 
 ---
 
-## ⌨️ Tech Stack  
+# 🛠 Tech Stack
 
-### 👨‍💻 Programming & Databases  
+### Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 📊 Data Analysis & Visualization  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-5A9?style=for-the-badge)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-### 🤖 Machine Learning & AI  
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![EDA](https://img.shields.io/badge/EDA-00C853?style=for-the-badge)
-![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-9C27B0?style=for-the-badge)
-
-### 🧠 Deep Learning  
-![ANN](https://img.shields.io/badge/ANN-FF6F00?style=for-the-badge)
-![CNN](https://img.shields.io/badge/CNN-673AB7?style=for-the-badge)
-![RNN](https://img.shields.io/badge/RNN-009688?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-### ⚙️ Tools & Platforms  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
 
-## ⭐ Featured Projects  
+### AI / Generative AI
 
-### 🔹 [AI-Powered Data Analytics Portal](#)
-*Python | Streamlit | Pandas | Scikit-learn*  
-- Built a real-time Streamlit dashboard for automated EDA and ML model evaluation  
-- Reduced preprocessing time by **30%** and model selection time by **25%**
-
-### 🔹 [YouTube Trending Video Analysis & Prediction](#)
-*Python | XGBoost | Scikit-learn*  
-- Analyzed YouTube trends and predicted engagement  
-- Achieved **R² = 0.82**, improving prediction accuracy by **18%**
-
-### 🔹 [Movie Recommender System](#)
-*Python | Flask | TMDb API | Streamlit*  
-- Built a content-based movie recommender with dynamic poster fetching  
-- Improved recommendation relevance and UI reliability by **90%**
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-00C853?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-7B61FF?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF9800?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
 
 ---
 
-## 🏅 Certifications  
+### Machine Learning
 
-- 📈 **Python for Data Science** – NPTEL (2024)  
-- 📊 **Master Data Analysis with Python** – Udemy (2025)  
-- 🧠 **Python for Data Science** – Great Learning (2023)  
-
----
-
-## 💬 Soft Skills  
-Problem-Solving • Analytical Thinking • Teamwork • Adaptability • Time Management  
-
-
-
-
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
 ---
 
-## 🌐 Connect with Me  
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+
+---
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
+
+---
+
+# 🚀 Featured Projects
+
+## 🎥 YouTube RAG Chatbot
+
+**LangChain • Groq • FAISS • HuggingFace • Streamlit**
+
+- AI-powered chatbot for YouTube videos
+- Retrieval-Augmented Generation (RAG)
+- Multi-video chat history
+- Search conversations
+- AI summaries
+- Streamlit Cloud deployment
+
+---
+
+## 🩻 Fracture & Pneumonia Detection Using AI
+
+**TensorFlow • MobileNetV2 • Flask • React**
+
+- Three-model AI diagnostic system
+- Grad-CAM visualization
+- 96% X-ray authenticity accuracy
+- 95% Pneumonia detection
+- 90% Fracture detection
+
+---
+
+## 📊 AI-Powered Data Analytics Portal
+
+**Python • Streamlit • Scikit-Learn**
+
+- Automated EDA
+- Feature Engineering
+- ML Model Training
+- Performance Dashboard
+- Real-time Visualizations
+
+---
+
+# 💼 Experience
+
+### Python Developer Intern
+**Anvistar ITS Pvt. Ltd.**
+
+- Developed role-based CRM
+- Backend using Python & MySQL
+- CRUD operations
+- Authentication & RBAC
+
+### AI Intern
+**Infosys Springboard**
+
+- CNN-based Instrument Recognition
+- Flask Deployment
+- Audio Processing
+- IRMAS Dataset
+
+---
+
+# 📜 Certifications
+
+🏆 Python for Data Science – NPTEL
+
+🏆 Master Data Analysis with Python – Udemy
+
+🏆 Explore Machine Learning using Python – Infosys Springboard
+
+---
+
+# 📈 GitHub Stats
 
 <p align="center">
-  <!-- Email -->
-  <a href="mailto:yashhaval23@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
 
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/yash-haval-8ab742274/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YashHaval&show_icons=true&theme=tokyonight"/>
 
-  <!-- GitHub -->
-  <a href="https://github.com/YashHaval" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YashHaval&theme=tokyonight"/>
 
-  <!-- Resume -->
-  <a href="https://drive.google.com/file/d/1_IAseahwZDvRW_tfCsPoW3p6HfK3JLZ8/preview" target="_blank">
-  <img src="https://img.shields.io/badge/Resume-0052CC?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
-</a>
+</p>
 
+<p align="center">
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashHaval&layout=compact&theme=tokyonight"/>
 
+</p>
 
+---
 
+# 🌐 Connect With Me
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashhaval23@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yash-haval-8ab742274)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/YashHaval)
 
 ---
 
 <p align="center">
-✨ <i>“Turning data into decisions and ideas into innovation.”</i> ✨
+
+### ⭐ "Building AI that solves real-world problems."
+
 </p>
