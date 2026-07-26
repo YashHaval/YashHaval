@@ -6,11 +6,7 @@
   <img src="https://github.com/YashHaval.png" width="180" alt="Yash Haval"/>
 </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;Python+Developer;Generative+AI+Developer;LangChain+%7C+RAG+%7C+LLMs;Always+Learning+New+Technologies+🚀" />
-  </a>
-</p>
+<h3 align="center">AI/ML Engineer | Python Developer | Generative AI Enthusiast</h3>
 <p align="center">
 Building AI-powered applications using Python, LangChain, RAG, LLMs, FastAPI & Machine Learning.
 </p>
