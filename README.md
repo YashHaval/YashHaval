@@ -1,6 +1,11 @@
 <!-- GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm Yash Haval</h1>
+
+<p align="center">
+  <img src="https://github.com/YashHaval.png" width="180" alt="Yash Haval"/>
+</p>
+
 <h3 align="center">AI/ML Engineer | Python Developer | Generative AI Enthusiast</h3>
 
 <p align="center">
